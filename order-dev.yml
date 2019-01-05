@@ -12,3 +12,5 @@ eureka:
   client:
     service-url:
       defaultZone: http://47.107.104.181:8761/eureka
+env:
+  dev
