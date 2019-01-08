@@ -18,5 +18,5 @@ eureka:
 env:
   dev
 demo:
-  name: Muggle Lee
+  name: Katy
   age: 22
