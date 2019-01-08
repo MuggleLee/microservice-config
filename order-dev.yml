@@ -23,5 +23,5 @@ eureka:
 env:
   dev
 demo:
-  name: hao
+  name: Katy
   age: 22
