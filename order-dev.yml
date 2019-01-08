@@ -17,3 +17,6 @@ eureka:
     prefer-ip-address: true
 env:
   dev
+demo:
+  name: MuggleLee
+  age: 22
