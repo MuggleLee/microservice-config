@@ -23,5 +23,5 @@ eureka:
 env:
   dev
 demo:
-  name: bbbbbbbbb
+  name: hao
   age: 22
