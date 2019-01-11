@@ -23,5 +23,5 @@ eureka:
 env:
   dev
 demo:
-  name: aaaa
+  name: bbbbbbbbb
   age: 22
