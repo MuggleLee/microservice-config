@@ -23,5 +23,5 @@ eureka:
 env:
   dev
 demo:
-  name: emmm
+  name: Muggle Lee
   age: 22
