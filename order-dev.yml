@@ -23,5 +23,5 @@ eureka:
 env:
   dev
 demo:
-  name: muggle
+  name: hao
   age: 22
